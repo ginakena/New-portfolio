@@ -4,7 +4,7 @@ export default function Experience() {
   return (
     <section id="experience" className="px-6 sm:px-12 py-28 border-t border-line max-w-4xl">
       <div className="grid sm:grid-cols-[100px_1fr] gap-6 sm:gap-10">
-        <p className="font-mono text-xs text-muted pt-1">03 / experience</p>
+        <p className="font-mono text-xs text-muted pt-1">MY EXPERIENCE</p>
         <div>
           <h2 className="font-display font-semibold text-2xl sm:text-3xl text-ink mb-8">
             Experience

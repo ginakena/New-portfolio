@@ -5,7 +5,7 @@ export default function Contact() {
   return (
     <section id="contact" className="px-6 sm:px-12 py-28 border-t border-line max-w-4xl">
       <div className="grid sm:grid-cols-[100px_1fr] gap-6 sm:gap-10">
-        <p className="font-mono text-xs text-muted pt-1">04 / contact</p>
+        <p className="font-mono text-xs text-muted pt-1">GET IN TOUCH</p>
         <div>
           <h2 className="font-display font-semibold text-3xl sm:text-4xl text-ink mb-5 max-w-md leading-tight">
             Open to opportunities and collaborations.

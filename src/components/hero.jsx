@@ -54,9 +54,9 @@ export default function Hero() {
           showContent || skip ? "opacity-100 translate-y-0" : "opacity-0 translate-y-2"
         }`}
       >
-        <p className="font-mono text-xs text-amber mb-5 tracking-wide">
+        {/* <p className="font-mono text-xs text-amber mb-5 tracking-wide">
           available for opportunities
-        </p>
+        </p> */}
         <h1 className="font-display font-semibold text-4xl sm:text-5xl md:text-6xl leading-[1.08] text-ink">
           Software engineer building things that hold up under real conditions.
         </h1>
