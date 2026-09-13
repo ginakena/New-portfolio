@@ -1,7 +1,7 @@
 // Real project data pulled from github.com/ginakena
 export const projects = [
   {
-    id: "a3f9c1",
+    id: "python-data-viz",
     status: "shipped",
     name: "Kenya Mobile Money BI",
     blurb:
@@ -12,7 +12,7 @@ export const projects = [
     year: "2026",
   },
   {
-    id: "e17b02",
+    id: "solidity-microlending",
     status: "shipped",
     name: "Micro-lending Platform",
     blurb:
@@ -23,7 +23,7 @@ export const projects = [
     year: "2026",
   },
   {
-    id: "9c04df",
+    id: "solidity-supply-chain",
     status: "shipped",
     name: "Supply Chain Tracker",
     blurb:
@@ -34,7 +34,7 @@ export const projects = [
     year: "2026",
   },
   {
-    id: "b56a1e",
+    id: "windows-boot-recovery",
     status: "case study",
     name: "Windows Boot Recovery — Case Study",
     blurb:
@@ -45,7 +45,7 @@ export const projects = [
     year: "2026",
   },
   {
-    id: "f2081a",
+    id: "stans-navigation-system",
     status: "deployed",
     name: "STANS",
     blurb:
@@ -56,7 +56,7 @@ export const projects = [
     year: "2026",
   },
   {
-    id: "77dc3b",
+    id: "planora-kanban-board",
     status: "shipped",
     name: "Planora",
     blurb:

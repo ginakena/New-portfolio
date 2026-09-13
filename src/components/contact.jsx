@@ -39,7 +39,7 @@ export default function Contact() {
               rel="noreferrer"
               className="flex items-center gap-2 font-mono text-xs hover:text-accent transition-colors"
             >
-              <LinkedinIcon size={16} /> linkedin
+              <LinkedinIcon size={20} /> linkedin
             </a>
             <a
               href="tel:+254742575643"
@@ -51,7 +51,7 @@ export default function Contact() {
         </div>
       </div>
 
-      <p className="font-mono text-[11px] text-muted mt-24 pt-6 border-t border-line">
+      <p className="font-mono text-[12px] text-muted mt-24 pt-6 ">
         © 2026 Regina Makena. Built with Love.
       </p>
     </section>

@@ -13,8 +13,8 @@
     @apply bg-accent/20;
   }
   :focus-visible {
-    outline: 2px solid #2B4C7E;
-    outline-offset: 2px;
+    outline: 4px solid #186d03;
+    outline-offset: 4px;
   }
 }
 
