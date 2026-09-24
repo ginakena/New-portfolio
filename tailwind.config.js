@@ -6,8 +6,8 @@ export default {
       colors: {
         paper: "#d6f0cf",
         paperDim: "#FBE6C2",
-        ink: "#ec7777",
-        inkSoft: "#EAE2D6",
+        ink: "#0a0101",
+        inkSoft: "#080500",
         muted: "#99b8ee",
         line: "#dee4e6",
         accent: "#b9d1f5",
